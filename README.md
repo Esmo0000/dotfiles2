@@ -10,7 +10,7 @@ My current setup of NixOS, Qtile, NeoVim, kitty, Xonsh shell, and more informati
 - Fork this [repo](https://github.com/AnzenKodo/dotfiles)
 - Clone the forked repo:
   ```bash
-  git clone https://github.com/AnzenKodo/dotfiles.git ~/.config/dotfiles
+  git https://github.com/Esmo0000/dotfiles2.git ~/.config/dotfiles2
   ```
 - Enter the following commands:
   ```bash
