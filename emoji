@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+kitty --class float sh -c 'x=$(kitty +kitten unicode_input | base64); printf "\eP@kitty-print|%s\e\\" "$x"' 2>&1

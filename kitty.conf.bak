@@ -1,0 +1,11 @@
+# To know how to setup your kitty goto -> https://sw.kovidgoyal.net/kitty/conf
+# The default config can be found here -> https://sw.kovidgoyal.net/kitty/_downloads/433dadebd0bf504f8b008985378086ce/kitty.conf
+
+# BEGIN_KITTY_THEME
+# Material Dark
+include current-theme.conf
+# END_KITTY_THEME
+
+#include punk.conf
+include settings.conf
+include shortcuts.conf

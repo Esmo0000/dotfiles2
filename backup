@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+# Bookmark Backup
+cd ~
+deno run -A $XDG_BIN_HOME/chrome_extensions_backup.js
+rm -rf $DOTFILES/browser
+mkdir $DOTFILES/browser
+cp $XDG_CONFIG_HOME/BraveSoftware/Brave-Browser/Default/Bookmarks $DOTFILES/browser/Bookmarks.bak
+cp $XDG_CONFIG_HOME/BraveSoftware/Brave-Browser/Default/Extensions.bak $DOTFILES/browser/
+cd -
+
+# Nixed backup
+
+cd $DOTFILES
+
+git pull
+git add .
+git commit -m "⬆ Update $(git --no-pager diff --name-only HEAD^ HEAD |  tr '\r\n' ' ')"
+git push
+
+cd -
+
+# Notes backup
+
+cd $HOME/Documents/notes
+
+git pull
+git add .
+git commit -m "⬆ Update $(git --no-pager diff --name-only HEAD^ HEAD |  tr '\r\n' ' ')"
+git push
+
+cd -

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "dhdgffkkebhmkfjojejmpbldmpobfkfo",
+    "name": "Tampermonkey",
+    "description": "The world's most popular userscript manager",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+  },
+  {
+    "id": "kljjoeapehcmaphfcjkmbhkinoaopdnd",
+    "name": "HyperWrite - AI Writing Companion",
+    "description": "Write 10x faster and beat writer’s block. Use HyperWrite to create better blog posts, emails, copy, and more.",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/kljjoeapehcmaphfcjkmbhkinoaopdnd"
+  },
+  {
+    "id": "apnjnioapinblneaedefcnopcjepgkci",
+    "name": "GitHub Repository Size",
+    "description": "Automatically adds repository size to GitHub's repository summary",
+    "homepage_url": "https://github.com/harshjv/github-repo-size",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/apnjnioapinblneaedefcnopcjepgkci"
+  },
+  {
+    "id": "gppongmhjkpfnbhagpmjfkannfbllamg",
+    "name": "Wappalyzer - Technology profiler",
+    "description": "Identify web technologies",
+    "homepage_url": "https://www.wappalyzer.com/",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg"
+  },
+  {
+    "id": "jehoagbopeaefibnihnfgenfcilmcikj",
+    "name": "enable-selection",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/jehoagbopeaefibnihnfgenfcilmcikj"
+  },
+  {
+    "id": "cdhdichomdnlaadbndgmagohccgpejae",
+    "name": "Remove YouTube Suggestions",
+    "description": "Spend less time on YouTube. Customize YouTube's user interface to be less engaging.",
+    "homepage_url": "https://github.com/lawrencehook/remove-youtube-suggestions",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/cdhdichomdnlaadbndgmagohccgpejae"
+  },
+  {
+    "id": "nkabooldphfdjcbhcodblkfmigmpchhi",
+    "name": "Pinterest Love: Pinterest Screenshot Saver++",
+    "description": "Save screenshots and other images to Pinterest, visually search pins and list pinnable images on a page.",
+    "homepage_url": "https://twitter.com/vitaminiser",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/nkabooldphfdjcbhcodblkfmigmpchhi"
+  },
+  {
+    "id": "aapbdbdomjkkjkaonfhkkikfgjllcleb",
+    "name": "__MSG_8969005060131950570__",
+    "description": "__MSG_5636646071825253269__",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/aapbdbdomjkkjkaonfhkkikfgjllcleb"
+  },
+  {
+    "id": "pncfbmialoiaghdehhbnbhkkgmjanfhe",
+    "name": "__MSG_extensionName__",
+    "description": "__MSG_extensionDescription__",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/pncfbmialoiaghdehhbnbhkkgmjanfhe"
+  },
+  {
+    "id": "blaaajhemilngeeffpbfkdjjoefldkok",
+    "name": "__MSG_extensionName__",
+    "description": "__MSG_extensionDescription__",
+    "homepage_url": "https://www.proginosko.com/leechblock/",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/blaaajhemilngeeffpbfkdjjoefldkok"
+  },
+  {
+    "id": "ehllkhjndgnlokhomdlhgbineffifcbj",
+    "name": "Always active Window - Always Visible",
+    "description": "Pretend that all browser windows are active by spoofing the visibility state event and more!",
+    "homepage_url": "https://add0n.com/always-active.html",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/ehllkhjndgnlokhomdlhgbineffifcbj"
+  },
+  {
+    "id": "eecfoibnnhheckhfokpihgefmlnenofb",
+    "name": "Disable Page Visibility API",
+    "description": "Add-on to disable the Page Visibility API. This prevents conferencing systems from tracking if you are currently in another window.",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/eecfoibnnhheckhfokpihgefmlnenofb"
+  },
+  {
+    "id": "dbepggeogbaibhgnhhndojpepiihcmeb",
+    "name": "Vimium",
+    "description": "The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/dbepggeogbaibhgnhhndojpepiihcmeb"
+  },
+  {
+    "id": "fholmcjfabjmfdkpojgmakdkoakgihpk",
+    "name": "Disable visibility detection",
+    "description": "Prevent website from accessing itself visibility info",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/fholmcjfabjmfdkpojgmakdkoakgihpk"
+  },
+  {
+    "id": "hompjdfbfmmmgflfjdlnkohcplmboaeo",
+    "name": "__MSG_chrome_extension_name__",
+    "description": "__MSG_chrome_extension_description__",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/hompjdfbfmmmgflfjdlnkohcplmboaeo"
+  },
+  {
+    "id": "hhinaapppaileiechjoiifaancjggfjm",
+    "name": "Web Scrobbler",
+    "description": "__MSG_extDescription__",
+    "homepage_url": "https://web-scrobbler.com",
+    "chrome_webstore_url": "https://chrome.google.com/webstore/detail/hhinaapppaileiechjoiifaancjggfjm"
+  }
+]
